@@ -1,14 +1,11 @@
-# E aí!
+# Meu nome é **Ariel**
 
 
-## Meu nome é **Ariel**
-
-
-### Tenho
+### eu tenho
 - 27 anos
-- 3 gatos
-- 1 cachorro
-- e alguns projetos meus aqui (código, design e tudo mais):
+- 3 gatos e 1 cachorro
+- gosto musical variadíssimo
+- e muita energia pra realizar projetos legais :)
 
 
   - [Calculadora de Lógica Proposicional](https://arielcavalcante.github.io/calculadora-logica-proposicional)
